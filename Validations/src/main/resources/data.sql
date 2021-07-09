@@ -1,0 +1,1 @@
+insert into user(EMP_ID,EMP_NAME,ADRESS,GENDER,CONTACT_NUMBER) values (1,'Srilatha','Naramalapadu','female',9398339059);
